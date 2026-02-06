@@ -6,7 +6,7 @@
 
 ## About Me!
 
-I'm a tech enthusiast with a passion for AI, Cybersecurity, and Hardware. My uncle got me into computers when I was a kid, and I've been learning by breaking (and fixing) things ever since.
+I'm a tech enthusiast with a passion for AI, Cybersecurity and Hardware. My uncle got me into computers when I was a kid, and I've been learning by breaking (and fixing) things ever since.
 
 🎓 **Backstory**
 
