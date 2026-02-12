@@ -56,8 +56,8 @@ I'm also a big gamer. I enjoy shooters like Call of Duty and Counter-Strike, or 
 <img src="https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
